@@ -13,6 +13,7 @@ Type : CMS Exploiter
 Version : 1.2.1
 
 Username Default : yukinoshita47
+
 Password Default : gsh1337
 
 gunakan di localhost atau di cpanel yang di subdomainkan
@@ -145,7 +146,7 @@ Link Exploit-DB
 
 __________________________________________
 
-Encryption And Hash Cracking
+Maintaining Access
 __________________________________________
 
 Shell Access Scanner
@@ -168,6 +169,7 @@ __________________________________________
 __________________________________________
 
 DISCLAIMER AND AGREEMENT
+__________________________________________
 
 Ini project opensource Kalian Di izinkan jika mau recode asalkan cantumkan sumber nya "Yukinoshita 47 - Garuda Security Hacker" <--- kalo kalian
 mengklaim project ini ya siap-siap aja lah wkwkwkwkwkwkwk
