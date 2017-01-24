@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+/* Body Style */
+body {
+background: black;
+color: lime;
+}
+
+/* Links */
+a {
+color: lime;
+text-decoration: none;
+}
+
+/* Workspace */
+div.workspace {
+left: center;
+align: center;
+text-align: center;
+}
+
+
+
